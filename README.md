@@ -1,6 +1,6 @@
 # NLW_Moveit
 
-Project Developed during Level Week - by Rocketseat :rocket:
+Project Developed during Next Level Week - by Rocketseat :rocket:
 
 Complete challenges to have a productive healthy time during your work  :computer::blush:
 
